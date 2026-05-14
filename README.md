@@ -7,3 +7,5 @@ Ilum Escola de Ciência
 Repositório para a aula de git da turma 26 da Ilum
 
 Primeira atualização do `README.md`
+
+Atualização do `README.md`
